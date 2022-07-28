@@ -14,3 +14,11 @@ body {
 .carous-image {
     filter: brightness(50%);
 }
+
+.register-section {
+    background-color: #289BDE;
+}
+
+.register-section button {
+    color: #289BDE;
+}
