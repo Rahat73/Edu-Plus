@@ -1,3 +1,16 @@
 body {
     font-family: 'Poppins', sans-serif;
 }
+
+.carous h1 {
+    font-size: 4vw;
+    font-weight: 600;
+}
+
+.carous p {
+    font-weight: 300;
+}
+
+.carous-image {
+    filter: brightness(50%);
+}
