@@ -2,6 +2,10 @@ body {
     font-family: 'Poppins', sans-serif;
 }
 
+.carous {
+    margin-bottom: 10%;
+}
+
 .carous h1 {
     font-size: 4vw;
     font-weight: 600;
@@ -12,11 +16,20 @@ body {
 }
 
 .carous-image {
-    filter: brightness(50%);
+    filter: brightness(40%);
+}
+
+.courses {
+    margin-bottom: 10%;
+}
+
+.faq-section {
+    margin-bottom: 10%;
 }
 
 .register-section {
     background-color: #289BDE;
+    margin-bottom: 10%;
 }
 
 .register-section button {
