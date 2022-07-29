@@ -11,6 +11,7 @@ body {
     font-weight: 600;
 }
 
+
 .carous p {
     font-weight: 300;
 }
@@ -27,11 +28,23 @@ body {
     margin-bottom: 10%;
 }
 
+.explore-section {
+    margin-bottom: 10%;
+}
+
 .register-section {
     background-color: #289BDE;
-    margin-bottom: 10%;
+    margin-bottom: 7%;
 }
 
 .register-section button {
     color: #289BDE;
+}
+
+.meet-section {
+    margin-bottom: 7%;
+}
+
+.feedback-section {
+    margin-bottom: 8%;
 }
