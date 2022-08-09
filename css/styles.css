@@ -20,6 +20,11 @@ body {
     filter: brightness(40%);
 }
 
+.carous img {
+    min-height: 300px;
+    object-fit: cover;
+}
+
 .courses {
     margin-bottom: 10%;
 }
